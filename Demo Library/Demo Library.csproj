@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="DTOs\Class1.cs" />
     <Compile Include="Entities\Class1.cs" />
+    <Compile Include="POCOs\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
