@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo_Library
+namespace Demo_Library.DTOs
 {
-    public class Class1
+    class Class1
     {
     }
 }
